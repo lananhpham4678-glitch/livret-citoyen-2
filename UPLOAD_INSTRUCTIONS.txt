@@ -1,0 +1,25 @@
+INSTALL THE CIVIC EXERCISE UPDATE
+
+1. Unzip this archive.
+2. Open https://github.com/lananhpham4678-glitch/livret-citoyen-2
+3. On branch main, select Add file > Upload files.
+4. Upload the seven website files at the repository root (not inside a new folder):
+   index.html, exercises.js, civic-ui.js, app.js, course-data.js, styles.css, README.md
+5. Commit the changes. If GitHub Pages uses main, wait for deployment and refresh the site.
+
+The GitHub connection rejected the automatic write with a 403 permission error.
+No remote files were changed by this update.
+
+Changes: 60 civic QCM, practical scenarios, 23 chapter-specific practice panels,
+explanations, and a 40-question final mock (28 knowledge + 12 situations).
+The mock follows the official topic counts 11 / 6 / 11 / 8 / 4.
+These are authored practice questions, not the exhaustive official question bank.
+
+Existing completed readings and FR/EN preference are preserved. The revised
+assessments must be completed again, starting from part 1, with 100% required to
+unlock the next part. The final practice target is 32/40.
+
+Validation: JavaScript syntax, question data, topic quotas and React DOM
+integration for all 23 reading panels, unanswered and perfect scoring, unlocking,
+final mock 31/40 and 32/40 threshold, explanations and reset. Full browser visual
+verification was unavailable because a browser executable could not be installed.
